@@ -8,7 +8,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace UnitTestProject1
 {
     [TestClass]
-    class UnitTest3
+   public class UnitTest3
     {
 
         [TestMethod]
